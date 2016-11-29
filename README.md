@@ -1,6 +1,15 @@
-# SPICE - Multisim Simulations
- 
-This repository contains collection of SPICE simulations for mainly Analog Circuits. This work is ongoing. Following are the Analog Circuit topics which are dealt with in these simulations:
+# Analog Hands On Analog Design and Simulations (SPICE - Multisim)
+This project involves hands-on design and simulation of mainly Analog Circuits. Following references serve as rough guide for this project work:
+- [Learning the Art of Electronics](http://learningtheartofelectronics.com/)
+- [Practicing Electronics For Inventors](https://accessengineeringlibrary.com/browse/practical-electronics-for-inventors-fourth-edition)
+- [Digilent Real Analog Video Lectures](https://learn.digilentinc.com/classroom/realanalog/)
+
+Idea is to build variety of circuits using real parts sourced from vendors and complement them with Multisim based SPICE Simulations. This is an ongoing work.
+
+Following is the list of parts used in this project
+- 
+
+Following are the Analog Circuit topics which are dealt with in this project:
  
  - Linear Passive Circuits
    - Resistive: Resistance(R)
@@ -47,8 +56,7 @@ This repository contains collection of SPICE simulations for mainly Analog Circu
      
      
 **References**
-- [Learning the Art of Electronics](http://learningtheartofelectronics.com/)
-- [Practicing Electronics For Inventors](https://accessengineeringlibrary.com/browse/practical-electronics-for-inventors-fourth-edition)
+
 
    
  
