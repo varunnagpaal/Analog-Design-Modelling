@@ -118,6 +118,10 @@ This project involves hands-on design, modelling and simulation(SPICE - MultiSim
      - Clock generation and clock recovery
      - Tone decoding and demodulation
 
+### Project Notes
+I do write lot of notes in notebook or on whiteboards. Due to space constraints, it is not possible to share project notes on github. And so, I have shared some of my notes in the following public google drive folder:
+- [Analog Circuits Notes](https://drive.google.com/open?id=0B2-DQjqZAsLsVlZ4SUp6bzFhYVU)
+
 ### Following references serve as rough guide for this project work
 - [Learning the Art of Electronics(LAOE)](http://learningtheartofelectronics.com/)
 - [Practicing Electronics For Inventors(PEFI)](https://accessengineeringlibrary.com/browse/practical-electronics-for-inventors-fourth-edition)
