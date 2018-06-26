@@ -170,32 +170,32 @@ I do write lot of notes in notebook or on whiteboards. However, after a while I 
                 - [x] Steady state response
     - [ ] Non-linear devices
         - [x] Diodes
-        - [x] Basic operating modes: forward biased, reverse biased and breakdown
-        - [x] Effect of temperature on knee voltae and reverse biased current
-        - [ ] Forward biased operation model
-            - [x] Non-linear Exponential or Shockley model for small-signal didoes
-                - [x] Analytical solutions based upon Node voltage method
-                    - [x] Iterative solution
-                    - [x] With  diode as a non-linear load, replacing linear source circuit with Thevenin equivalent
-                - [x] Graphical solution
-                    - [x] Load-line method
-            - [x] Constant forward voltage drop model
-            - [x] Ideal diode model (voltage controlled ideal switch)
-            - [ ] Piece-wise linear diode models
-            - [ ] Linear Small signal model (a linear resistance) of a diode
-        - [x] Reverse biased operation models
-        - [ ] Applications of diode
-            - [x] Clipper or Limiter
-            - [x] Thresholders
-            - [x] Half wave rectifier
-            - [x] Full wave bridge rectifier
-            - [ ] Full wave bridge rectifier with smoothing capacitor
-            - [ ] Photodiodes
-            - [ ] Solar (PV) cells
-            - [ ] Peak detector
-            - [ ] Level restorers
-            - [ ] Voltage doubler
-            - [ ] Superdiode
+            - [x] Basic operating modes: forward biased, reverse biased and breakdown
+            - [x] Effect of temperature on knee voltae and reverse biased current
+            - [ ] Forward biased operation model
+                - [x] Non-linear Exponential or Shockley model for small-signal didoes
+                    - [x] Analytical solutions based upon Node voltage method
+                        - [x] Iterative solution
+                        - [x] With  diode as a non-linear load, replacing linear source circuit with Thevenin equivalent
+                    - [x] Graphical solution
+                        - [x] Load-line method
+                - [x] Constant forward voltage drop model
+                - [x] Ideal diode model (voltage controlled ideal switch)
+                - [ ] Piece-wise linear diode models
+                - [ ] Linear Small signal model (a linear resistance) of a diode
+            - [x] Reverse biased operation models
+            - [ ] Applications of diode
+                - [x] Clipper or Limiter
+                - [x] Thresholders
+                - [x] Half wave rectifier
+                - [x] Full wave bridge rectifier
+                - [ ] Full wave bridge rectifier with smoothing capacitor
+                - [ ] Photodiodes
+                - [ ] Solar (PV) cells
+                - [ ] Peak detector
+                - [ ] Level restorers
+                - [ ] Voltage doubler
+                - [ ] Superdiode
         - [ ] Memristor
             - [ ] To be continued...
 - [x] Modeling circuits as multi-port networks
