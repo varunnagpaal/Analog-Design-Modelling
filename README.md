@@ -15,7 +15,7 @@ The part numbers in the above BOM List above corresponds to Mouser specific part
 
 ### Notes
 I do write lot of notes in notebook or on whiteboards. However, after a while I realized that sharing them becomes cumbersome and impractical.  So I decided to digitize my notes (not all though). Instead of pen & paper, I now write all my notes using Microsoft OneNote and XP-Pen Star 05 writing tablet . Below is link to my Microsoft OneNote on Analog circuits:
-- [Analog Circuits Notes](https://1drv.ms/u/s!Ap5gga5jFlukggoewL7QWurL2oug)
+- [Analog Circuits Notes](https://1drv.ms/u/s!Ap5gga5jFlukggpHc6ZaI3IE4tuh)
 
 ### Following are the Analog Circuit topics which are dealt in this work. As I make progress, I expand the list of topics accordingly.
 - [x] Measurement and Analysis
@@ -149,6 +149,50 @@ I do write lot of notes in notebook or on whiteboards. However, after a while I 
                 - [x] Time averaging operator
                 - [x] RMS value of a signal
                 - [x] Energy and power signals
+        - [x] Fourier Analysis and Synthesis of Signals
+            - [x] Preliminary Math
+                - [x] Limits
+                - [x] (dis)Continuity
+                - [x] Differentiation
+                - [x] Absolutely Integrable Functions
+            - [x] Signal Representation in Time and Frequency Domains
+                    - [x] Time Domain representation
+                    - [x] Frequency Domain representation
+                    - [x] Time-frequency domain representation
+                    - [x] Fourier Analysis, Coefficients, Fourier Spectrum and Transform for stationary signals
+                    - [x] Fundamental wave and harmonics for sinusoids
+                    - [x] Amplitude, Magnitude
+                    - [x] Peak and Peak to Peak Amplitude & Magnitude
+                    - [x] Phase shift for sinusoidal signal
+                    - [x] Quadrature Sinusoids
+                    - [x] Six categories of Time-domain signals
+                    - [ ] Fourier representation of Signals
+	                    - [x] Synthesis and Analysis of a Signal or function
+                            - [x] Orthogonal basis functions and coefficients
+                            - [x] Linear combination
+                            - [x] Analogy from a 3D vector and power series representation
+                            - [x] Complex exponential as basis function for fourier synthesis
+                            - [x] Conditions required for existence of fourier synthesis and analysis of a signal
+	                    - [x] Fourier Analysis and Synthesis of aperiodic continuous time signals (defined on R)
+                            - [x] Fourier Transform and Inverse Fourier Transform
+	                    - [x] Fourier Analysis and Synthesis of periodic continuous time signals (defined on RT)
+                            - [x] Fourier Transform and Fourier Series (Inverse Fourier Transform)
+	                    - [x] Fourier Analysis and Synthesis of aperiodic discrete time signals (defined on Z)
+                            - [x] Fourier Transform and Inverse Fourier Transform
+	                    - [x] Fourier Analysis and Synthesis of periodic discrete time signals (defined on ZN)
+                            - [x] Discrete Fourier Transform and Discrete Fourier Series (Inverse Fourier Transform)
+	                    - [x] Relationship between aperiodicty/periodicity and continuity/discretization
+	                    - [x] How to choose between Summation & Integration when doing Fourier Analysis and Synthesis
+	                    - [x] Fourier Analysis and Synthesis of important signals
+                            - [x] Box
+                            - [x] Gaussian
+                            - [x] Train of impulses
+                            - [x] Periodic even and odd functions
+                            - [x] Periodic Square wave (odd and even)
+                                - [x] Gibbs Phenomenon
+	                    - [x] Power of a sinusoidal signal
+	                    - [x] Power spectrum for periodic signals from Fourier Series
+	                    - [ ] To be continued...
         - [x] Basic AC Concepts
             - [x] Sinusoidal frequency, phase, amplitude
             - [x] Fundamentals and harmonics
