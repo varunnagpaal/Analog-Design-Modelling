@@ -14,8 +14,9 @@ This is an ongoing work.
 The part numbers in the above BOM List above corresponds to Mouser specific part numbers. You may order parts from your country specific vendors(see Octopart BOM Tool)
 
 ### Notes
-I do write lot of notes in notebook or on whiteboards. However, after a while I realized that sharing them becomes cumbersome and impractical.  So I decided to digitize my notes (not all though). Instead of pen & paper, I now write all my notes using Microsoft OneNote and XP-Pen Star 05 writing tablet . Below is link to my Microsoft OneNote on Analog circuits:
+I do write lot of notes in notebook or on whiteboards. However, after a while I realized that sharing them becomes cumbersome and impractical.  So I decided to digitize my notes (not all though). Instead of pen & paper, I now write all my notes using Microsoft OneNote and XP-Pen Deco 3 writing tablet. Below are links to my Microsoft OneNote Notebooks on Analog circuits:
 - [Analog Circuits Notes](https://1drv.ms/u/s!Ap5gga5jFlukggpHc6ZaI3IE4tuh)
+- [Analog Integrated Circuits Notes](https://1drv.ms/u/s!Ap5gga5jFlukgkHkcuXiHLzsoByN)
 
 ### Following are the Analog Circuit topics which are dealt in this work. As I make progress, I expand the list of topics accordingly.
 - [x] Measurement and Analysis
@@ -349,14 +350,81 @@ I do write lot of notes in notebook or on whiteboards. However, after a while I 
             - [x] JFET (Junction Field Effect Transistors)
             - [ ] CMOS FET (Metal Oxide Semiconductor FET)
                 - [x] Device structure and I/V Characteristics
-                - [x] Large signal and small signal models
-                - [ ] Short Channel Effects
+                - [x] Regions of Operations of PFET and NFET with first order effects
+                    - [x] Cut-off
+                    - [x] Edge of conductance (EOC)
+                    - [x] Deep Triode
+                    - [x] Linear Triode
+                    - [x] Edge of Saturation (EOS)
+                    - [x] Saturation
+                - [x] FET Transconductance
+                - [ ] Second order effects
+                    - [x] Body effect
+                    - [x] Channel length Modulation
+                    - [x] Velocity Saturation
+                    - [x] Short Channel Effects
+                    - [x] Sub-threshold conduction
+                - [x] Regions of Operation of PFET and NFET with second order effects
+                - [x] Series and Parallel Combinations of FETs
+                - [x] Voltage Transfer Characteristics of PFET/NFET As a Switch and Amplifer
                 - [ ] Transitioning from CMOS FET to FinFET
-                - [x] As a Switch
-                - [ ] As an Amplifier
-                    - [ ] Single stage Amplifier
+                - [X] Operating FET as a Switch
+                    - [x] Noise Margins of Inverter
+                - [x] Operating FET as an Amplifier
+                    - [x] Output distortion of FET amplifier
+                    - [x] Load line analysis
+                    - [x] Concept of small and large signals operation & models
+                    - [x] MOS device layout and gate/junction capacitances
+                    - [x] Large and small signal analysis of FETs in Saturation region
+                    - [x] Single stage Amplifier
+                        - [x] Voltage Amplifier Basics
+                        - [x] Important characteristics of voltage amplifer
+                            - [x] Input Resistance
+                            - [x] Output Resistance
+                            - [x] Voltage Gain - open circuit (unloaded) and loaded
+                            - [x] Speed, Noise, power dissipation
+                            - [x] Analysis of BJT and FET for voltage amplification
+                        - [x] Design procedure of FET based amplifier
+                        - [x] Basic FET based Amplifer topologies
+                            - [x] Common Source (CS)
+                            - [x] Common Drain (CD)
+                            - [x] Common Gate (CG)
+                        - [x] Common Source (CS) Amplifier
+                            - [x] CS amplifer With Resistive Load
+                                - [x] Small and large signal analysis
+                            - [x] Maximizing CS gain
+                            - [x] FET based Current source
+                            - [x] CS amplifer with Current source load
+                            - [x] Diode mode of FET
+                            - [x] CS with diode connected FET
+                                - [x] Small and Large Signal analysis
+                            - [x] Basics of Current Mirror, Current Source and Current Sink
+                            - [x] Biasing of FET based amplifiers
+                                - [x] Resistive biasing: Single and dual supply schemes
+                            - [x] Concept of source degeneration
+                            - [x] CS Amplifier with source degeneration
+                                - [x] Small and large signal analysis
+                                - [x] Better current source using source degeneration
+                        - [x] Common gate (CG) Amplifier
+                            - [x] Large and Small signal analysis
+                            - [x] Biasing CG Amplifier
+                        - [x] Common Gate (CG) or Source Follower Amplifier
                     - [ ] Differential Amplifier
                     - [ ] Current Mirrors and Biasing
+                        - [x] Cascode current source
+                        - [x] Cascode Amplifier
+                        - [x] Cascode Amplifier with ideal current source load
+                        - [x] Cascode Amplifier with generic load
+                        - [x] Quantitative small signal analysis of Cascode
+                        - [x] Cascode amplifier with PFET Input or degenerating device
+                        - [x] Current Mirrors
+                            - [x] Issue with FET based current sources
+                            - [x] Current Mirrors basics
+                            - [x] Diode connected FET as current mirror
+                            - [x] Sizing FET to make current mirrors
+                            - [x] Current Mirror using unit transistors
+                            - [x] Cascode Current Mirrors
+                            - [ ] TBU
                     - [ ] Noise
                     - [ ] Non-linearity and Mismatch
                     - [ ] Feedback
@@ -397,8 +465,11 @@ I do write lot of notes in notebook or on whiteboards. However, after a while I 
     * [Analog Filter Design](http://amzn.in/d414kcy) by Rolf Schaumann
 * *Microelectronics*
     * [Microelectronic Circuits: Theory And Applications](http://amzn.in/aeyBLhA) by Adel S. Sedra, Kenneth C. Smith
+    * [Fundamental of Microelectronics](http://amzn.in/d/3BRfST5), 2nd edition by Behzad Razavi
 * *Analog Integrated Circuits*
     * [Design of Analog CMOS Integrated Circuits](http://amzn.in/hZJ8iav) by Behzad Razavi
+    * [Electronics 1 and Electronics 2 lectures](https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos) by Behzad Razavi
+    * [Analog Circuit Design - Discrete and Integrated](http://a.co/d/3bsJONE) by Sergio Franco
 * *References*
     * [TI Analog Engineer's Pocket Reference](http://www.ti.com/lit/slyw038) by Art Kay and Tim Green
     * [Learning the Art of Electronics(LAOE)](http://learningtheartofelectronics.com/) by Thomas C. Hayes and Paul Horowitz
